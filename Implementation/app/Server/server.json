@@ -1,0 +1,64 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "alex",
+      "grade": 11,
+      "marks": {
+        "maths": 80,
+        "physics": 50,
+        "chemistry": 35
+      }
+    },
+    {
+      "id": 2,
+      "name": "gary",
+      "grade": 12,
+      "marks": {
+        "maths": 70,
+        "physics": 50,
+        "chemistry": 65
+      }
+    },
+    {
+      "id": 3,
+      "name": "stuart",
+      "grade": 11,
+      "marks": {
+        "maths": 80,
+        "physics": 20,
+        "chemistry": 90
+      }
+    },
+    {
+      "name": " ",
+      "email": " ",
+      "contact": " ",
+      "address": " ",
+      "city": " ",
+      "postalCode": " ",
+      "id": 4
+    }
+  ],
+  "land": [
+    {
+      "name": " ",
+      "email": " ",
+      "contact": " ",
+      "pan": " ",
+      "address": " ",
+      "state": " ",
+      "city": " ",
+      "postalCode": " ",
+      "occupation": " ",
+      "laddress": " ",
+      "lstate": " ",
+      "lcity": " ",
+      "lpostalCode": " 1",
+      "larea": " ",
+      "document": null,
+      "images": [],
+      "id": 1
+    }
+  ]
+}
