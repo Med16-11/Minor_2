@@ -29,5 +29,11 @@ stakeholders such as landowners, buyer and government officials.
 ![image](https://user-images.githubusercontent.com/78318301/228443844-a5cc0bdb-f70b-49ac-b83d-c31f858261bc.png)
 ![image](https://user-images.githubusercontent.com/78318301/228443880-69def263-cb8e-4746-b889-9b1f51463294.png)
 
+# Contributors
+1. Avinash Kumar (https://github.com/avinashkumar10)
+2. Medhavi Singh (https://github.com/Med16-11/)
+3. Rohan Chauhan (https://github.com/rohan2266) 
+4. Rohit Sharma (https://github.com/Rohitsharma-20) 
+
 ## NOTE
 The project is created by 3rd year student as thier Minor Project, if you have any suggestions or you want to contribute feel free to contact us.
